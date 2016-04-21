@@ -1,0 +1,16 @@
+{
+  "name": "lora-gps-viewer",
+  "version": "0.0.1",
+  "description": "First version of gps parser / map display for lora information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Heigele cheristi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "node-rest-client": "^1.8.0"
+  }
+}
